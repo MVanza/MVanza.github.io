@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196a401b-3e5a-4e82-a1c0-467697d25365" name="Default Changelist" comment="sem2 2ex">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/charts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/te.txt" beforeDir="false" afterPath="$PROJECT_DIR$/te.txt" afterDir="false" />
-    </list>
+    <list default="true" id="196a401b-3e5a-4e82-a1c0-467697d25365" name="Default Changelist" comment="sem2 2ex" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +63,7 @@
       <updated>1613045589993</updated>
       <workItem from="1613045592117" duration="363000" />
       <workItem from="1613045972179" duration="2462000" />
-      <workItem from="1613050915708" duration="7663000" />
+      <workItem from="1613050915708" duration="8008000" />
     </task>
     <task id="LOCAL-00001" summary="smth">
       <created>1613045660614</created>
@@ -125,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613055407111</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="sem2 2ex">
+      <created>1613058727141</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613058727141</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
