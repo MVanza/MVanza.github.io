@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196a401b-3e5a-4e82-a1c0-467697d25365" name="Default Changelist" comment="sem2 img">
-      <change afterPath="$PROJECT_DIR$/sem2.css" afterDir="false" />
+    <list default="true" id="196a401b-3e5a-4e82-a1c0-467697d25365" name="Default Changelist" comment="sem2 css">
+      <change afterPath="$PROJECT_DIR$/charts/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/charts" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -50,6 +51,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\place\GitHub\MVanza.github.io\charts" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +66,7 @@
       <updated>1613045589993</updated>
       <workItem from="1613045592117" duration="363000" />
       <workItem from="1613045972179" duration="2462000" />
-      <workItem from="1613050915708" duration="482000" />
+      <workItem from="1613050915708" duration="1188000" />
     </task>
     <task id="LOCAL-00001" summary="smth">
       <created>1613045660614</created>
@@ -83,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613047965901</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sem2 css">
+      <created>1613051419817</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613051419818</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +118,8 @@
     <MESSAGE value="smth" />
     <MESSAGE value="sem2 start" />
     <MESSAGE value="sem2 img" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem2 img" />
+    <MESSAGE value="sem2 css" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem2 css" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
