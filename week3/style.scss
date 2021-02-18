@@ -1,0 +1,30 @@
+$text-color: #c7c;
+$back-color: $text-color - 53%;
+$img-color: $text-color - 33%;
+$grad: $text-color - 23%;
+$prefixes: "-ms-", "-o-", "-webkit-", "-moz-", "";
+$border-bool: true;
+
+
+@mixin bord_and_grad($border-bool, $pxnum, $start, $end){
+    @if $border-bool {
+        @each $prefixes in $prefixes {
+            #{$prefixes}border-radius: $pxnum;
+        }
+    } @else{
+        @each $prefixes in $prefixes {
+            background-image: #{$prefixes}linear-gradient($start, $end);
+        }
+
+    }
+
+}
+body.dark {
+    background-color: $back-color;
+    color: $text-color;
+}
+img.img-thumbnail {
+    background-color: $img-color;
+    @include bord_and_grad($border-bool, 8px, $grad, $img-color);
+}
+

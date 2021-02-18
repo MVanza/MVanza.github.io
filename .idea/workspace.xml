@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196a401b-3e5a-4e82-a1c0-467697d25365" name="Default Changelist" comment="sem2 5ex">
+    <list default="true" id="196a401b-3e5a-4e82-a1c0-467697d25365" name="Default Changelist" comment="sem3 1 ex">
+      <change afterPath="$PROJECT_DIR$/week3/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/cats.html" beforeDir="false" afterPath="$PROJECT_DIR$/week3/cats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,7 @@
       <workItem from="1613045972179" duration="2462000" />
       <workItem from="1613050915708" duration="13740000" />
       <workItem from="1613106353548" duration="361000" />
-      <workItem from="1613653936915" duration="1607000" />
+      <workItem from="1613653936915" duration="11137000" />
     </task>
     <task id="LOCAL-00001" summary="smth">
       <created>1613045660614</created>
@@ -167,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613106496361</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="sem3 1 ex">
+      <created>1613655692592</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1613655692592</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +205,8 @@
     <MESSAGE value="sem2 4ex" />
     <MESSAGE value="sem2 5ex" />
     <MESSAGE value="little" />
-    <option name="LAST_COMMIT_MESSAGE" value="little" />
+    <MESSAGE value="sem3 1 ex" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem3 1 ex" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
