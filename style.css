@@ -16,23 +16,13 @@
 
 }
 
-h1.grad-text{
-    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
-    font-size: 50px;
-    background: linear-gradient(108deg, rgba(133,53,239,1) 0%, rgba(206,8,69,1) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    color: #0B2349;
-    display: table;
-    margin: 20px auto;
-}
-
 .header-text{
     font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 25px;
     display: table;
     margin: 20px auto;
 }
+
 .simp-text{
     font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 18px;
@@ -40,13 +30,7 @@ h1.grad-text{
     margin-left: 35px;
     margin-right: 5px;
 }
-.text-center{
-    text-align: center;
-}
 
-.text-left{
-    text-align: left;
-}
 .rounded-img{
     margin-top: 10px;
     border-radius: 50%;
@@ -61,18 +45,19 @@ h1.grad-text{
     margin: 40px auto;
     height: auto;
     width: 600px;
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    box-shadow: 0 14px 28px rgba(0,0,0,0.05), 0 10px 10px rgba(0,0,0,0.1);
 }
-h2.grad-text{
+.grad-text{
     font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 40px;
+    font-weight: 500;
     background: linear-gradient(108deg, rgba(133,53,239,1) 0%, rgba(206,8,69,1) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: #0B2349;
     display: table;
-    margin: auto;
-    margin-bottom: 10px;
+    margin: auto auto 10px auto;
+
 }
 .footer{
     background: #c8a2c8;
@@ -81,13 +66,9 @@ h2.grad-text{
     position: relative; /* Относительное позиционирование */
 }
 
-.skills{
-    margin-left: 1px;
-}
 li{
     list-style-type: none;
 }
-
 li:before{
     color: #c8a2c8;
     content: "\25CF";
