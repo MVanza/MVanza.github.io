@@ -47,7 +47,7 @@
     width: 600px;
     box-shadow: 0 14px 28px rgba(0,0,0,0.05), 0 10px 10px rgba(0,0,0,0.1);
 }
-.htext{
+h1.header-text{
     font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 40px;
     font-weight: 500;
